@@ -11,6 +11,11 @@ You can use this code to write your own game
         
         pip3 install pygame
 
+* Extract the Zip file in C-drive
+* Open cmd and type "cd" then give the location of the snake file inside folder("Snake-Game")
+* Then type python snake.py
+* This will run the game , enjoy😄!!!  
+
 ### Don't delete any file it may crash the game
 
 | Cheats 😄
